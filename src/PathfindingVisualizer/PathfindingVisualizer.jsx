@@ -4,7 +4,7 @@ import { Node } from './Node/Node';
 import './PathfindingVisualizer.css';
 
 
-export const pathfindingVisualizer = () => {
+export const PathfindingVisualizer = () => {
 
   return (
     <div>
