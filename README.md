@@ -1,4 +1,4 @@
-Tutorial exercise to learn dijkstra algorithm and styling with css. incomplete project. I will be adding different algorithms 
+Exercise to learn dijkstra algorithm and styling with css. incomplete project. I will be adding different algorithms 
 
 
 
