@@ -1,3 +1,10 @@
+Tutorial exercise to learn dijkstra algorithm and styling with css. incomplete project. I will be adding different algorithms 
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
